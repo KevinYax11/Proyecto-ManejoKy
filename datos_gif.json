@@ -1,0 +1,28 @@
+{
+    "C:/Users/Yax_Kevin/Desktop/Pruebas Proyecto\\prueba1.gif": {
+        "version": "89a",
+        "width": "618",
+        "height": "618",
+        "color_count": "32",
+        "compression": "LZW",
+        "number_format": "Little-endian",
+        "background_color": "0xf4",
+        "image_count": "1",
+        "creation_date": "2024-11-06 10:51:00",
+        "modified_date": "2024-11-06 10:51:01",
+        "comments": "Prueba Para Presentacion, hola"
+    },
+    "C:/Users/Yax_Kevin/Desktop/Pruebas Proyecto\\prueba2.gif": {
+        "version": "89a",
+        "width": 200,
+        "height": 150,
+        "color_count": 256,
+        "compression": "LZW",
+        "number_format": "Little-endian",
+        "background_color": "0xf7",
+        "image_count": 2,
+        "creation_date": "2024-11-06 10:51:23",
+        "modified_date": "2024-11-06 10:51:24",
+        "comments": ""
+    }
+}
